@@ -8,8 +8,8 @@ int main()
 	r = 20;
 	S = PI * (r * r);
 	P = 2 * PI * r;
-	cout << "Ïëîùà = " << S << endl;
-	cout << "Ïåðèìåòð = " << P << endl;
+	cout << "ÐŸÐ»Ð¾Ñ‰Ð° = " << S << endl;
+	cout << "ÐŸÐµÑ€Ð¸Ð¼ÐµÑ‚Ñ€ = " << P << endl;
 	system("pause>>voice");
 	return 0;
 }
